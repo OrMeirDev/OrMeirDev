@@ -5,7 +5,7 @@
 I'm Or Meir Tsarfati, a 25-year-old Israeli computer science student in my third year. Passionate about coding and problem-solving, I love building projects from scratch and am eager to learn and achieve my goals in the tech world.
 
    <p align="left">
-    <a href="https://discord.com/users/Godku">
+    <a href="https://discord.com/users/484759600445259776">
         <img alt="Join me on Discord" title="Join me on Discord" src="https://custom-icon-badges.demolab.com/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
     <a href="https://www.instagram.com/Or0727">
         <img alt="Follow me on Instagram" title="Follow me on Instagram" src="https://custom-icon-badges.demolab.com/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
