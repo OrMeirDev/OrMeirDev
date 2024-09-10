@@ -5,14 +5,15 @@
 I'm Or Meir Tsarfati, a 25-year-old Israeli computer science student in my third year. Passionate about coding and problem-solving, I love building projects from scratch and am eager to learn and achieve my goals in the tech world.
 
    <p align="left">
+      <a href="https://www.linkedin.com/in/or-meir-tsarfati-0775772b4/">
+        <img alt="Connect on LinkedIn" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
     <a href="https://discord.com/users/484759600445259776">
         <img alt="Join me on Discord" title="Join me on Discord" src="https://custom-icon-badges.demolab.com/badge/-Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"/></a>
     <a href="https://www.instagram.com/Or0727">
         <img alt="Follow me on Instagram" title="Follow me on Instagram" src="https://custom-icon-badges.demolab.com/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/></a>
     <a href="https://www.facebook.com/omtsarfati/">
         <img alt="Follow me on Facebook" title="Follow me on Facebook" src="https://custom-icon-badges.demolab.com/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
-    <a href="https://www.linkedin.com/in/or-meir-tsarfati-0775772b4/">
-        <img alt="Connect on LinkedIn" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+
 </p>
 
 ---
