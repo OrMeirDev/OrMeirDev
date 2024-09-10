@@ -1,4 +1,4 @@
-# 🏄‍♂️ Or Meir Tsarfati
+# 💻 Or Meir Tsarfati
 
 **`Computer Science Student (Developer/Data Structures)`**
 
