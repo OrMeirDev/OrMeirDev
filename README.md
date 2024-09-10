@@ -14,11 +14,11 @@ I'm Or Meir Tsarfati, a 25-year-old Israeli computer science student in my third
         <img alt="Follow me on Instagram" title="Follow me on Instagram" src="https://custom-icon-badges.demolab.com/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
     </a>
     <!-- Facebook Badge -->
-    <a href="https://www.facebook.com/Or Meir Tsarfati">
+    <a href="https://www.facebook.com/omtsarfati/">
         <img alt="Follow me on Facebook" title="Follow me on Facebook" src="https://custom-icon-badges.demolab.com/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
     </a>
     <!-- LinkedIn Badge -->
-    <a href="https://www.linkedin.com/in/Or Meir Tsarfati">
+    <a href="https://www.linkedin.com/in/or-meir-tsarfati-0775772b4/">
         <img alt="Connect on LinkedIn" title="Connect on LinkedIn" src="https://custom-icon-badges.demolab.com/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
 </p>
