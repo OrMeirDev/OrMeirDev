@@ -2,8 +2,9 @@
 
 **`Computer Science Student (Developer/Data Structures)`**
 
-I'm Or Meir Tsarfati, a 25-year-old Israeli computer science student in my third year. 
-As a father of two and happily married, balancing family life with my studies is challenging, but I believe anything is possible with determination. 
+I'm Or Meir Tsarfati, a 25-year-old Israeli computer science student in my third year.
+
+As a father and happily married, balancing family life with my studies is challenging, but I believe anything is possible with determination. 
 Im Passionate about coding and problem-solving, I thrive on building projects from the ground up and am always eager to learn, grow, and achieve my goals in the tech world.
    <p align="left">
       <a href="https://www.linkedin.com/in/or-meir-tsarfati-0775772b4/">
