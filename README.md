@@ -31,6 +31,7 @@ Im Passionate about coding and problem-solving, I thrive on building projects fr
 ### 📺 Developed Games Videos 
 <!-- BEGIN YOUTUBE-CARDS -->
 [![Square Bird Game](https://ytcards.demolab.com/?id=JcuATkZ7ufg&title=OOP2+Project+SquareBird+Game&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=317 "Square Bird Game")](https://www.youtube.com/watch?v=JcuATkZ7ufg&list=PLsWQBiWcM5hxmmXFLmo6mTmfY_Ko83g8T&ab_channel=OrmeirTzarfati)
+[![Cat & Mouse Game](https://ytcards.demolab.com/?id=JcuATkZ7ufg&title=OOP1+Project+Cat&Mouse+Game&lang=en&timestamp=0&background_color=%230d1117&title_color=%23ffffff&stats_color=%23dedede&max_title_lines=1&width=250&border_radius=5&duration=317 "Square Bird Game")](https://www.youtube.com/watch?v=ojGCO46JCOQ&ab_channel=OrmeirTzarfati)
 <!-- END YOUTUBE-CARDS -->
 
 [<img src="https://custom-icon-badges.demolab.com/badge/-Subscribe%20For%20More-red?style=for-the-badge&logo=video&logoColor=white"/>](https://www.youtube.com/@OrmeirTzarfati?sub_confirmation=1)
